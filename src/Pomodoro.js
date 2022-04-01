@@ -66,12 +66,14 @@ const Pomodoro = () => {
         setIsRunning(true);
         setMinutes(count);
         setSeconds(0);
+        setLabel('Break');
     }
 
     const studyTime = () => {
         setIsRunning(true);
         setMinutes(sessionMinutes);
         setSeconds(0);
+        setLabel('Study');
     }
     useEffect(() => {
         if (isRunning) {

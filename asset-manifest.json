@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fcc-pomodoro-clock/static/css/main.efb827e1.chunk.css",
+    "main.js": "/fcc-pomodoro-clock/static/js/main.3559dc24.chunk.js",
+    "main.js.map": "/fcc-pomodoro-clock/static/js/main.3559dc24.chunk.js.map",
+    "runtime-main.js": "/fcc-pomodoro-clock/static/js/runtime-main.42739e9f.js",
+    "runtime-main.js.map": "/fcc-pomodoro-clock/static/js/runtime-main.42739e9f.js.map",
+    "static/js/2.1aebcd7c.chunk.js": "/fcc-pomodoro-clock/static/js/2.1aebcd7c.chunk.js",
+    "static/js/2.1aebcd7c.chunk.js.map": "/fcc-pomodoro-clock/static/js/2.1aebcd7c.chunk.js.map",
+    "static/js/3.56eef55c.chunk.js": "/fcc-pomodoro-clock/static/js/3.56eef55c.chunk.js",
+    "static/js/3.56eef55c.chunk.js.map": "/fcc-pomodoro-clock/static/js/3.56eef55c.chunk.js.map",
+    "index.html": "/fcc-pomodoro-clock/index.html",
+    "static/css/main.efb827e1.chunk.css.map": "/fcc-pomodoro-clock/static/css/main.efb827e1.chunk.css.map",
+    "static/js/2.1aebcd7c.chunk.js.LICENSE.txt": "/fcc-pomodoro-clock/static/js/2.1aebcd7c.chunk.js.LICENSE.txt",
+    "static/js/3.56eef55c.chunk.js.LICENSE.txt": "/fcc-pomodoro-clock/static/js/3.56eef55c.chunk.js.LICENSE.txt",
+    "static/media/BeepSound.372995a9.wav": "/fcc-pomodoro-clock/static/media/BeepSound.372995a9.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42739e9f.js",
+    "static/js/2.1aebcd7c.chunk.js",
+    "static/css/main.efb827e1.chunk.css",
+    "static/js/main.3559dc24.chunk.js"
+  ]
+}

@@ -1,0 +1,69 @@
+body {
+  background-color: rgb(0,30,60);
+}
+
+.App {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.timer {
+  /* font-size: 170px; */
+  color: white;
+}
+
+#timer-label {
+  font-size: 70px;
+  margin: 0;
+}
+
+#time-left {
+    font-size: 170px;
+    margin: 0;
+}
+
+.digits {
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 10px;
+    /* padding: 100px; */
+    margin: 10px;
+}
+
+.break-digit {
+  color: white;
+  font-size: 30px;
+  padding: 0px 10px;
+  align-items: center;
+}
+
+.labels {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 0px 40px;
+  text-align: center;
+}
+
+.break {
+  align-items: center;
+  color: white;
+  float: left;
+}
+
+#break-label {
+  float: left;
+}
+
+.study {
+  float: right;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
